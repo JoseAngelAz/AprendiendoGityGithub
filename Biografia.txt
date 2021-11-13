@@ -6,3 +6,4 @@ Esta es una nueva linea de la Bio de José.
 Toca guitarra pero no es experto, pero toca bien.
 Me quede la carpeta 2 del curso, analizar cambios
 en los archivos de tu primer repositorio.
+Es el marido de Luna Rivera.
